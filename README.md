@@ -9,4 +9,4 @@ I will be using the following datasets:
 - MedDialog Dataset (English) (before covid)  https://github.com/UCSD-AI4H/Medical-Dialogue-System
 
 ## Pipeline
-- Use a pre-trained BioBert (on BC5CDr corpus) on data and show results 
+- Use a pre-trained BioBert on data and show results 
